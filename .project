@@ -1,7 +1,10 @@
-
 {
   "title": "IPL Analysis Project",
   "description": "Advanced cricket analytics platform",
-  "image": "https://example.com/custom-image.jpg",
-  "position": 1
+  "image": "https://example.com/ipl-preview.jpg",
+  "position": 1,
+  "playground": "https://google.com/",
+  "featured": true,
+  "techStack": ["Python", "Pandas", "Machine Learning"],
+  "status": "active"
 }
